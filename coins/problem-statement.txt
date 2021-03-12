@@ -1,0 +1,10 @@
+There are 1100 coins with one side as heads and other side as tails and
+there are 1100 people
+First person goes and places all the coins to show heads
+Second person goes and places every second coin (2, 4, 6, …) to show
+tails
+The third person goes to every third coin (3, 6, 9, ...) and, if it is heads,
+then places it to show tails, and if it is tails, then places it to show Heads
+The fourth person does this to every fourth coin (4, 8, 12, ...), and so on.
+After all the 1100 people take their turn how many coins will be
+showing heads?
